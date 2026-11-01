@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-10-31T16:31:00",
-  "total_matching_flights": 22,
+  "scanned_at": "2026-11-01T03:01:51",
+  "total_matching_flights": 18,
   "best_per_leg_usd": 365.0,
   "offers": [
     {
@@ -20,9 +20,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/mia/buea/270221/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-BUE?from=MIA&departureDate=2027-02-21&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/MIA-BUE/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTIxIiAKA01JQRIKMjAyNy0wMi0yMRoDR1JVKgJMQTIEODE5NSIgCgNHUlUSCjIwMjctMDItMjEaA0VaRSoCTEEyBDgxMzAoAmoHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJWTNCUWNuQkljRFp1WkRSQlMyaFdWVUZDUnkwdExTMHRMUzB0YjNsaVoya3hOa0ZCUVVGQlIzSnRSamMwVEUxSlNqQkJFZzFNUVRneE9UVjhURUU0TVRNd0dnc0krc1lDRUFJYUExVlRSRGdjY1ByR0FnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTIxIiAKA01JQRIKMjAyNy0wMi0yMRoDUFVKKgJETTIENTEwMyIgCgNQVUoSCjIwMjctMDItMjEaA0VaRSoCRE0yBDYyNjgoAmoHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJV25WYVYxVTRXRkJCVFVGQlNtZGFOR2RDUnkwdExTMHRMUzB0Y0daaVptRXhOa0ZCUVVGQlIzSnRjVFZyU0hob2NrMUJFZzFFVFRVeE1ETjhSRTAyTWpZNEdnc0k2WjRDRUFJYUExVlRSRGdjY09tZUFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "10:30 p.m. | – | 12:00 p.m.+2 | LATAMOperado por Latam Airlines Brasil, Latam Airlines Brasil",
-      "found_at": "2026-10-31T16:31:00"
+      "found_at": "2026-11-01T03:01:50"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -31,124 +31,40 @@
       "destination": "BUE",
       "outbound_date": "2027-02-21",
       "inbound_date": null,
-      "departure_time": "09:20",
+      "departure_time": "15:02",
       "return_departure_time": null,
-      "airline": "LATAM",
-      "stops": 1,
-      "carry_on_included": true,
-      "price_usd": 419.0,
-      "price_per_leg_usd": 419.0,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/mia/buea/270221/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-BUE?from=MIA&departureDate=2027-02-21&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/MIA-BUE/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTIxIiAKA01JQRIKMjAyNy0wMi0yMRoDR1JVKgJMQTIEODE5NSIgCgNHUlUSCjIwMjctMDItMjEaA0VaRSoCTEEyBDgxMzAoAmoHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJWTNCUWNuQkljRFp1WkRSQlMyaFdWVUZDUnkwdExTMHRMUzB0YjNsaVoya3hOa0ZCUVVGQlIzSnRSamMwVEUxSlNqQkJFZzFNUVRneE9UVjhURUU0TVRNd0dnc0krc1lDRUFJYUExVlRSRGdjY1ByR0FnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "9:20 a.m. | – | 1:15 a.m.+1 | LATAMDeltaOperado por Latam Airlines Brasil, Latam Airlines Brasil",
-      "found_at": "2026-10-31T16:31:00"
-    },
-    {
-      "provider": "Skyscanner / Turismocity / Cheapflights",
-      "trip_type": "roundtrip",
-      "origin": "BUE",
-      "destination": "MIA",
-      "outbound_date": "2027-02-07",
-      "inbound_date": "2027-02-21",
-      "departure_time": "02:45",
-      "return_departure_time": "00:00-23:59",
       "airline": "Arajet",
       "stops": 1,
       "carry_on_included": true,
-      "price_usd": 851.0,
-      "price_per_leg_usd": 425.5,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270207/270221/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-960,0-1439",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-07&returnDate=2027-02-21&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-07/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,1600_0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDUFVKKgJETTIENjIwNyIgCgNQVUoSCjIwMjctMDItMDcaA01JQSoCRE0yBDUxMDIoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGmoSCjIwMjctMDItMjEiIAoDTUlBEgoyMDI3LTAyLTIxGgNHUlUqAkxBMgQ4MTk1IiAKA0dSVRIKMjAyNy0wMi0yMRoDRVpFKgJMQTIEODEzMCgCagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQGyAQoyCC9tLzBiM3ly&tfu=CnhDalJJZVV3eU9FaHBjRkpqZW05QlJVTmlOSGRDUnkwdExTMHRMUzB0TFc5clltSjJOMEZCUVVGQlIzSnRSalJaVDJ0WVh6QkJFZzFNUVRneE9UVjhURUU0TVRNd0dnc0l6NWdGRUFJYUExVlRSRGdjY00rWUJRPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "2:45 a.m. | – | 1:32 p.m. | Arajet",
-      "found_at": "2026-10-31T16:30:05"
-    },
-    {
-      "provider": "Skyscanner / Turismocity / Cheapflights",
-      "trip_type": "roundtrip",
-      "origin": "BUE",
-      "destination": "MIA",
-      "outbound_date": "2027-02-06",
-      "inbound_date": "2027-02-21",
-      "departure_time": "08:40",
-      "return_departure_time": "00:00-23:59",
-      "airline": "LATAM",
-      "stops": 1,
-      "carry_on_included": true,
-      "price_usd": 859.0,
-      "price_per_leg_usd": 429.5,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270206/270221/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439,0-1439",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-06&returnDate=2027-02-21&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-06/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359_0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDU0RRKgJETTIEMzI2MSIgCgNTRFESCjIwMjctMDItMDYaA01JQSoCRE0yBDIxMDQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQRpqEgoyMDI3LTAyLTIxIiAKA01JQRIKMjAyNy0wMi0yMRoDR1JVKgJMQTIEODE5NSIgCgNHUlUSCjIwMjctMDItMjEaA0VaRSoCTEEyBDgxMzAoAmoHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CnhDalJJVDJSeFJGQlRkMFJQVldOQlRqaGtaV2RDUnkwdExTMHRMUzB0TFc5NVkyZG9Oa0ZCUVVGQlIzSnRSakp2UlVneWRVRkJFZzFNUVRneE9UVjhURUU0TVRNd0dnc0kwN3NGRUFJYUExVlRSRGdjY05PN0JRPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "8:40 a.m. | – | 2:30 p.m.+1 | LATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru",
-      "found_at": "2026-10-31T16:29:37"
-    },
-    {
-      "provider": "Skyscanner / Turismocity / Cheapflights",
-      "trip_type": "roundtrip",
-      "origin": "BUE",
-      "destination": "MIA",
-      "outbound_date": "2027-02-06",
-      "inbound_date": "2027-02-21",
-      "departure_time": "20:05",
-      "return_departure_time": "00:00-23:59",
-      "airline": "LATAM",
-      "stops": 1,
-      "carry_on_included": true,
-      "price_usd": 859.0,
-      "price_per_leg_usd": 429.5,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270206/270221/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439,0-1439",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-06&returnDate=2027-02-21&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-06/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359_0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDU0RRKgJETTIEMzI2MSIgCgNTRFESCjIwMjctMDItMDYaA01JQSoCRE0yBDIxMDQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQRpqEgoyMDI3LTAyLTIxIiAKA01JQRIKMjAyNy0wMi0yMRoDR1JVKgJMQTIEODE5NSIgCgNHUlUSCjIwMjctMDItMjEaA0VaRSoCTEEyBDgxMzAoAmoHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CnhDalJJVDJSeFJGQlRkMFJQVldOQlRqaGtaV2RDUnkwdExTMHRMUzB0TFc5NVkyZG9Oa0ZCUVVGQlIzSnRSakp2UlVneWRVRkJFZzFNUVRneE9UVjhURUU0TVRNd0dnc0kwN3NGRUFJYUExVlRSRGdjY05PN0JRPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "8:05 p.m. | – | 7:25 p.m.+1 | LATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru",
-      "found_at": "2026-10-31T16:29:37"
-    },
-    {
-      "provider": "Skyscanner / Turismocity / Cheapflights",
-      "trip_type": "roundtrip",
-      "origin": "BUE",
-      "destination": "MIA",
-      "outbound_date": "2027-02-07",
-      "inbound_date": "2027-02-21",
-      "departure_time": "08:40",
-      "return_departure_time": "00:00-23:59",
-      "airline": "LATAM",
-      "stops": 1,
-      "carry_on_included": true,
-      "price_usd": 859.0,
-      "price_per_leg_usd": 429.5,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270207/270221/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-960,0-1439",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-07&returnDate=2027-02-21&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-07/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,1600_0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDUFVKKgJETTIENjIwNyIgCgNQVUoSCjIwMjctMDItMDcaA01JQSoCRE0yBDUxMDIoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGmoSCjIwMjctMDItMjEiIAoDTUlBEgoyMDI3LTAyLTIxGgNHUlUqAkxBMgQ4MTk1IiAKA0dSVRIKMjAyNy0wMi0yMRoDRVpFKgJMQTIEODEzMCgCagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQGyAQoyCC9tLzBiM3ly&tfu=CnhDalJJZVV3eU9FaHBjRkpqZW05QlJVTmlOSGRDUnkwdExTMHRMUzB0TFc5clltSjJOMEZCUVVGQlIzSnRSalJaVDJ0WVh6QkJFZzFNUVRneE9UVjhURUU0TVRNd0dnc0l6NWdGRUFJYUExVlRSRGdjY00rWUJRPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "8:40 a.m. | – | 2:30 p.m.+1 | LATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru",
-      "found_at": "2026-10-31T16:30:05"
+      "price_usd": 368.0,
+      "price_per_leg_usd": 368.0,
+      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/mia/buea/270221/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439",
+      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-BUE?from=MIA&departureDate=2027-02-21&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
+      "cheapflights_url": "https://www.cheapflights.com/flight-search/MIA-BUE/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTIxIiAKA01JQRIKMjAyNy0wMi0yMRoDUFVKKgJETTIENTEwMyIgCgNQVUoSCjIwMjctMDItMjEaA0VaRSoCRE0yBDYyNjgoAmoHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJV25WYVYxVTRXRkJCVFVGQlNtZGFOR2RDUnkwdExTMHRMUzB0Y0daaVptRXhOa0ZCUVVGQlIzSnRjVFZyU0hob2NrMUJFZzFFVFRVeE1ETjhSRTAyTWpZNEdnc0k2WjRDRUFJYUExVlRSRGdjY09tZUFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "raw_summary": "3:02 p.m. | – | 5:00 a.m.+1 | Arajet",
+      "found_at": "2026-11-01T03:01:50"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
       "trip_type": "oneway_outbound",
       "origin": "BUE",
       "destination": "MIA",
-      "outbound_date": "2027-02-07",
+      "outbound_date": "2027-02-06",
       "inbound_date": null,
-      "departure_time": "02:45",
+      "departure_time": "05:35",
       "return_departure_time": null,
       "airline": "Arajet",
       "stops": 1,
       "carry_on_included": true,
       "price_usd": 433.0,
       "price_per_leg_usd": 433.0,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270207/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-960",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-07&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-07?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,1600",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDUFVKKgJETTIENjIwNyIgCgNQVUoSCjIwMjctMDItMDcaA01JQSoCRE0yBDUxMDIoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJVkZCWFNraE9NVXBVU0UxQlREWkZPVUZDUnkwdExTMHRMUzB0YjJ0aWJHUXlOMEZCUVVGQlIzSnRSalpyUVcxemNqQkJFZzFFVFRZeU1EZDhSRTAxTVRBeUdnc0kxTkVDRUFJYUExVlRSRGdjY05UUkFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "2:45 a.m. | – | 1:32 p.m. | Arajet",
-      "found_at": "2026-10-31T16:30:38"
+      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270206/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439",
+      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-06&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
+      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-06?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDU0RRKgJETTIEMzI2MSIgCgNTRFESCjIwMjctMDItMDYaA01JQSoCRE0yBDIxMDQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJTUhvNFEybFBjRGRWZW1kQlNsa3pTRUZDUnkwdExTMHRMUzB0TFMxd1ptZHlOVUZCUVVGQlIzSnRjVE5yUVc4elJGTkJFZzFFVFRNeU5qRjhSRTB5TVRBMEdnc0kxTkVDRUFJYUExVlRSRGdjY05UUkFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "raw_summary": "5:35 a.m. | – | 4:55 p.m. | Arajet",
+      "found_at": "2026-11-01T03:01:18"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -167,9 +83,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/mia/buea/270220/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-BUE?from=MIA&departureDate=2027-02-20&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/MIA-BUE/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDTElNKgJMQTIEMjY5OSIgCgNMSU0SCjIwMjctMDItMjEaA0FFUCoCTEEyBDIzODAoAkARSBdQAFgXagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJZFc1VVVGQjFaMDUyWDJkQlNtTkpkbWRDUnkwdExTMHRMUzB0TFc5NVltWXhORUZCUVVGQlIzSnRSamROVG1FdE5tbEJFZzFNUVRJMk9UbDhURUV5TXpnd0dnc0k5dkVDRUFJYUExVlRSRGdjY1BieEFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDTElNKgJMQTIEMjY5OSIgCgNMSU0SCjIwMjctMDItMjEaA0FFUCoCTEEyBDIzODAoAkARSBdQAFgXagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJVm1kWmNUWTJiM1JWU2tGQlRFRk5jRUZDUnkwdExTMHRMUzB0Y0daaVkyZ3hOVUZCUVVGQlIzSnRjVFEwUzJWdlMyOUJFZzFNUVRJMk9UbDhURUV5TXpnd0dnc0k5dkVDRUFJYUExVlRSRGdjY1BieEFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "7:10 p.m. | – | 9:40 a.m.+2 | LATAMOperado por Latam Airlines Brasil, Latam Airlines Brasil",
-      "found_at": "2026-10-31T16:30:49"
+      "found_at": "2026-11-01T03:01:40"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -188,9 +104,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270207/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-960",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-07&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-07?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,1600",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDUFVKKgJETTIENjIwNyIgCgNQVUoSCjIwMjctMDItMDcaA01JQSoCRE0yBDUxMDIoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJVkZCWFNraE9NVXBVU0UxQlREWkZPVUZDUnkwdExTMHRMUzB0YjJ0aWJHUXlOMEZCUVVGQlIzSnRSalpyUVcxemNqQkJFZzFFVFRZeU1EZDhSRTAxTVRBeUdnc0kxTkVDRUFJYUExVlRSRGdjY05UUkFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA3Ih8KA0VaRRIKMjAyNy0wMi0wNxoDTUlBKgJBQTIDOTgyKAJAAEgQUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CmxDalJJU21wek1scDBZbEpWTUUxQlNrTktXbWRDUnkwdExTMHRMUzB0TFhCbWNYa3hOVUZCUVVGQlIzSnRjVFJOVGs1WFlYTkJFZ1ZCUVRrNE1ob0xDTkhrQWhBQ0dnTlZVMFE0SEhEUjVBST0SBggAIAIoASIDCgEw&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "10:10 a.m. | – | 5:35 p.m. | American",
-      "found_at": "2026-10-31T16:30:38"
+      "found_at": "2026-11-01T03:01:29"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -209,9 +125,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270206/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439,1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-06&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-06/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359_1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDYaA01JQSoCTEEyBDI2OTQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQRpxEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDQVRMKgJETDIEMTM4NiIfCgNBVEwSCjIwMjctMDItMjAaA0VaRSoCREwyAzEwMSgCQBFIF1AAWBdqBwgBEgNNSUFyDQgCEgkvbS8wMWx5NW1AAUgBcAGCAQsI____________AZgBAbIBCjIIL20vMGIzeXI&tfu=CnRDalJJUkdObWNIRlFTMHhxY1ZWQlMwNHRlbWRDUnkwdExTMHRMUzB0TFc5NVltUnpPRUZCUVVGQlIzSnRSakZ6VFRsclUxRkJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDYaA01JQSoCTEEyBDI2OTQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQRpxEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDQVRMKgJETDIEMTM4NiIfCgNBVEwSCjIwMjctMDItMjAaA0VaRSoCREwyAzEwMSgCQBFIF1AAWBdqBwgBEgNNSUFyDQgCEgkvbS8wMWx5NW1AAUgBcAGCAQsI____________AZgBAbIBCjIIL20vMGIzeXI&tfu=CnRDalJJTFcxdFFVd3dNVmhJYzFWQlNUaHZha0ZDUnkwdExTMHRMUzB0Y0daaWJHd3lNMEZCUVVGQlIzSnRjVEJWUWpOd1EzbEJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "7:20 a.m.7:20 a.m. del sáb, 6 feb – 7:25 p.m.7:25 p.m. del sáb, 6 febLATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru14 h 5 minEZEAeropuerto Internacional Ezeiza–MIAAeropuerto Internacional de Miami1 parada3 h 20 min LIMAeropuerto Internacional Jorge Chávez470 kg CO2e-9% de emisiones-9% de emisionesUSD 945ida y vueltaSalidasáb, 6 feb470 kg CO2e-9% de emisiones-9% de emisionesSeleccionar vueloUSD 945ida y vuelta7:20 a.m.EZE7:25 p.m.MIAUSD 945ida y vuelta1 escala en LIM1 parada14 h 5 minLATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru470 kg CO2e-9% de emisiones-9% de emisiones",
-      "found_at": "2026-10-31T16:29:22"
+      "found_at": "2026-11-01T03:00:28"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -230,9 +146,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270206/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439,1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-06&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-06/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359_1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDYaA01JQSoCTEEyBDI2OTQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQRpxEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDQVRMKgJETDIEMTM4NiIfCgNBVEwSCjIwMjctMDItMjAaA0VaRSoCREwyAzEwMSgCQBFIF1AAWBdqBwgBEgNNSUFyDQgCEgkvbS8wMWx5NW1AAUgBcAGCAQsI____________AZgBAbIBCjIIL20vMGIzeXI&tfu=CnRDalJJUkdObWNIRlFTMHhxY1ZWQlMwNHRlbWRDUnkwdExTMHRMUzB0TFc5NVltUnpPRUZCUVVGQlIzSnRSakZ6VFRsclUxRkJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDYaA01JQSoCTEEyBDI2OTQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQRpxEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDQVRMKgJETDIEMTM4NiIfCgNBVEwSCjIwMjctMDItMjAaA0VaRSoCREwyAzEwMSgCQBFIF1AAWBdqBwgBEgNNSUFyDQgCEgkvbS8wMWx5NW1AAUgBcAGCAQsI____________AZgBAbIBCjIIL20vMGIzeXI&tfu=CnRDalJJTFcxdFFVd3dNVmhJYzFWQlNUaHZha0ZDUnkwdExTMHRMUzB0Y0daaWJHd3lNMEZCUVVGQlIzSnRjVEJWUWpOd1EzbEJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "7:20 a.m. | – | 7:25 p.m. | LATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru",
-      "found_at": "2026-10-31T16:29:22"
+      "found_at": "2026-11-01T03:00:28"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -251,9 +167,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270207/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-960,1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-07&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-07/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,1600_1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDcaA01JQSoCTEEyBDI2OTQoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGnESCjIwMjctMDItMjAiIAoDTUlBEgoyMDI3LTAyLTIwGgNBVEwqAkRMMgQxMzg2Ih8KA0FUTBIKMjAyNy0wMi0yMBoDRVpFKgJETDIDMTAxKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CnRDalJJYzJOdFlsVnhOMHBYUVUxQlRXSkpSM2RDUnkwdExTMHRMUzB0TFMxdmVXZHlNa0ZCUVVGQlIzSnRSak5uUzBObFpVTkJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDcaA01JQSoCTEEyBDI2OTQoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGnESCjIwMjctMDItMjAiIAoDTUlBEgoyMDI3LTAyLTIwGgNBVEwqAkRMMgQxMzg2Ih8KA0FUTBIKMjAyNy0wMi0yMBoDRVpFKgJETDIDMTAxKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CnRDalJJWHpoMlFtc3lMV04zT0ZGQlNXVklTbEZDUnkwdExTMHRMUzB0Y0daaWFIZ3hPVUZCUVVGQlIzSnRjVEZ2U2tKa1NqQkJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "7:20 a.m.7:20 a.m. del dom, 7 feb – 7:25 p.m.7:25 p.m. del dom, 7 febLATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru14 h 5 minEZEAeropuerto Internacional Ezeiza–MIAAeropuerto Internacional de Miami1 parada3 h 20 min LIMAeropuerto Internacional Jorge Chávez470 kg CO2e-9% de emisiones-9% de emisionesUSD 945ida y vueltaSalidadom, 7 feb470 kg CO2e-9% de emisiones-9% de emisionesSeleccionar vueloUSD 945ida y vuelta7:20 a.m.EZE7:25 p.m.MIAUSD 945ida y vuelta1 escala en LIM1 parada14 h 5 minLATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru470 kg CO2e-9% de emisiones-9% de emisiones",
-      "found_at": "2026-10-31T16:29:51"
+      "found_at": "2026-11-01T03:00:49"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -272,9 +188,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270207/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-960,1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-07&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-07/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,1600_1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDcaA01JQSoCTEEyBDI2OTQoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGnESCjIwMjctMDItMjAiIAoDTUlBEgoyMDI3LTAyLTIwGgNBVEwqAkRMMgQxMzg2Ih8KA0FUTBIKMjAyNy0wMi0yMBoDRVpFKgJETDIDMTAxKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CnRDalJJYzJOdFlsVnhOMHBYUVUxQlRXSkpSM2RDUnkwdExTMHRMUzB0TFMxdmVXZHlNa0ZCUVVGQlIzSnRSak5uUzBObFpVTkJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA3IiAKA0VaRRIKMjAyNy0wMi0wNxoDTElNKgJMQTIEMjk3NiIgCgNMSU0SCjIwMjctMDItMDcaA01JQSoCTEEyBDI2OTQoAkAASBBQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGnESCjIwMjctMDItMjAiIAoDTUlBEgoyMDI3LTAyLTIwGgNBVEwqAkRMMgQxMzg2Ih8KA0FUTBIKMjAyNy0wMi0yMBoDRVpFKgJETDIDMTAxKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CnRDalJJWHpoMlFtc3lMV04zT0ZGQlNXVklTbEZDUnkwdExTMHRMUzB0Y0daaWFIZ3hPVUZCUVVGQlIzSnRjVEZ2U2tKa1NqQkJFZ3hFVERFek9EWjhSRXd4TURFYUN3aUY0Z1VRQWhvRFZWTkVPQnh3aGVJRhIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "12:20 p.m.12:20 p.m. del dom, 7 feb – 7:45 p.m.7:45 p.m. del dom, 7 febLATAMDeltaOperado por Latam Airlines Group9 h 25 minEZEAeropuerto Internacional Ezeiza–MIAAeropuerto Internacional de MiamiDirecto404 kg CO2e-22% de emisiones-22% de emisionesUSD 945ida y vueltaSalidadom, 7 feb404 kg CO2e-22% de emisiones-22% de emisionesSeleccionar vueloUSD 945ida y vuelta12:20 p.m.EZE7:45 p.m.MIAUSD 945ida y vueltaDirectoDirecto9 h 25 minLATAMDeltaOperado por Latam Airlines Group404 kg CO2e-22% de emisiones-22% de emisiones",
-      "found_at": "2026-10-31T16:29:51"
+      "found_at": "2026-11-01T03:00:49"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -293,30 +209,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/mia/buea/270220/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-BUE?from=MIA&departureDate=2027-02-20&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/MIA-BUE/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDTElNKgJMQTIEMjY5OSIgCgNMSU0SCjIwMjctMDItMjEaA0FFUCoCTEEyBDIzODAoAkARSBdQAFgXagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJZFc1VVVGQjFaMDUyWDJkQlNtTkpkbWRDUnkwdExTMHRMUzB0TFc5NVltWXhORUZCUVVGQlIzSnRSamROVG1FdE5tbEJFZzFNUVRJMk9UbDhURUV5TXpnd0dnc0k5dkVDRUFJYUExVlRSRGdjY1BieEFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTIwIiAKA01JQRIKMjAyNy0wMi0yMBoDTElNKgJMQTIEMjY5OSIgCgNMSU0SCjIwMjctMDItMjEaA0FFUCoCTEEyBDIzODAoAkARSBdQAFgXagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJVm1kWmNUWTJiM1JWU2tGQlRFRk5jRUZDUnkwdExTMHRMUzB0Y0daaVkyZ3hOVUZCUVVGQlIzSnRjVFEwUzJWdlMyOUJFZzFNUVRJMk9UbDhURUV5TXpnd0dnc0k5dkVDRUFJYUExVlRSRGdjY1BieEFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "11:10 p.m. | – | 4:00 p.m.+1 | LATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru",
-      "found_at": "2026-10-31T16:30:49"
-    },
-    {
-      "provider": "Skyscanner / Turismocity / Cheapflights",
-      "trip_type": "oneway_outbound",
-      "origin": "BUE",
-      "destination": "MIA",
-      "outbound_date": "2027-02-06",
-      "inbound_date": null,
-      "departure_time": "05:35",
-      "return_departure_time": null,
-      "airline": "Arajet",
-      "stops": 1,
-      "carry_on_included": true,
-      "price_usd": 478.0,
-      "price_per_leg_usd": 478.0,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270206/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-06&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-06?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDU0RRKgJETTIEMzI2MSIgCgNTRFESCjIwMjctMDItMDYaA01JQSoCRE0yBDIxMDQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJZFc1VVVGQjFaMDUyWDJkQlNtTkZUa0ZDUnkwdExTMHRMUzB0TFc5NVltWXhORUZCUVVGQlIzSnRSalUwUkZOTFVXRkJFZzFFVFRNeU5qRjhSRTB5TVRBMEdnc0kyZlFDRUFJYUExVlRSRGdjY05uMEFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "5:35 a.m. | – | 4:55 p.m. | Arajet",
-      "found_at": "2026-10-31T16:30:27"
+      "found_at": "2026-11-01T03:01:40"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -325,19 +220,40 @@
       "destination": "MIA",
       "outbound_date": "2027-02-05",
       "inbound_date": "2027-02-21",
-      "departure_time": "22:30",
+      "departure_time": "23:05",
       "return_departure_time": "00:00-23:59",
-      "airline": "LATAM",
+      "airline": "Arajet",
       "stops": 1,
       "carry_on_included": true,
-      "price_usd": 976.0,
-      "price_per_leg_usd": 488.0,
+      "price_usd": 967.0,
+      "price_per_leg_usd": 483.5,
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/270221/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439,0-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&returnDate=2027-02-21&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359_0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDTUlBKgJBQTIDOTA4KAJAEkgXUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQRpHEgoyMDI3LTAyLTIxIh8KA01JQRIKMjAyNy0wMi0yMRoDRVpFKgJBQTIDOTMzKAJqBwgBEgNNSUFyDQgCEgkvbS8wMWx5NW1AAUgBcAGCAQsI____________AZgBAbIBCjIIL20vMGIzeXI&tfu=CmxDalJJZGxNM1YyNWtZblZ6WkdOQlNuVnJXRkZDUnkwdExTMHRMUzB0TFc5clltVjBOMEZCUVVGQlIzSnRSakF3UjJzNVUwMUJFZ1ZCUVRrek14b0xDS3I3QmhBQ0dnTlZVMFE0SEhDcSt3WT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "10:30 p.m.10:30 p.m. del vie, 5 feb – 6:25 p.m.+16:25 p.m. del sáb, 6 febLATAMOperado por Latam Airlines Group, Latam Airlines Group, Latam Airlines Group21 h 55 minAEPAeroparque Internacional Jorge Newbery–MIAAeropuerto Internacional de Miami2 paradasEscala de 7 h 29 minEscala largaSCLAeropuerto Internacional Arturo Merino Benítez, PUJAeropuerto de Punta Cana652 kg CO2e+26% de emisiones+26% de emisionesUSD 976ida y vueltaSalidavie, 5 feb652 kg CO2e+26% de emisiones+26% de emisionesSeleccionar vueloUSD 976ida y vuelta10:30 p.m.AEP6:25 p.m.+1MIAUSD 976ida y vuelta2 escalas en SCL, PUJ2 paradas21 h 55 minLATAMOperado por Latam Airlines Group, Latam Airlines Group, Latam Airlines Group652 kg CO2e+26% de emisiones+26% de emisiones",
-      "found_at": "2026-10-31T16:29:08"
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA1IiAKA0VaRRIKMjAyNy0wMi0wNRoDUFVKKgJETTIENjIwMSIgCgNQVUoSCjIwMjctMDItMDYaA01JQSoCRE0yBDUxMDAoAkASSBdQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGmoSCjIwMjctMDItMjEiIAoDTUlBEgoyMDI3LTAyLTIxGgNQVUoqAkRNMgQ1MTAzIiAKA1BVShIKMjAyNy0wMi0yMRoDRVpFKgJETTIENjI2OCgCagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQGyAQoyCC9tLzBiM3ly&tfu=CnhDalJJTFRkSlJscDJPR3N3Wm1OQlNrVXlSa0ZDUnkwdExTMHRMUzB0TFhCcWVYWXlNa0ZCUVVGQlIzSnRjWHBaVERkRVh6WkJFZzFFVFRVeE1ETjhSRTAyTWpZNEdnc0k4dklGRUFJYUExVlRSRGdjY1BMeUJRPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "raw_summary": "11:05 p.m.11:05 p.m. del vie, 5 feb – 11:15 a.m.+111:15 a.m. del sáb, 6 febArajet14 h 10 minEZEAeropuerto Internacional Ezeiza–MIAAeropuerto Internacional de Miami1 parada3 h 28 min PUJAeropuerto de Punta Cana502 kg CO2eEmisiones prom.Emisiones prom.El precio no incluye acceso a los compartimentos superiores. Si necesitas llevar equipaje de mano, usa el filtro Equipaje para actualizar los precios.USD 967ida y vueltaSalidavie, 5 feb502 kg CO2eEmisiones prom.Emisiones prom.Seleccionar vueloEl precio no incluye acceso a los compartimentos superiores. Si necesitas llevar equipaje de mano, usa el filtro Equipaje para actualizar los precios.USD 967ida y vuelta11:05 p.m.EZE11:15 a.m.+1MIAEl precio no incluye acceso a los compartimentos superiores. Si necesitas llevar equipaje de mano, usa el filtro Equipaje para actualizar los precios.USD 967ida y vuelta1 escala en PUJ1 parada14 h 10 minArajet502 kg CO2eEmisiones prom.Emisiones prom.",
+      "found_at": "2026-11-01T03:00:13"
+    },
+    {
+      "provider": "Skyscanner / Turismocity / Cheapflights",
+      "trip_type": "roundtrip",
+      "origin": "BUE",
+      "destination": "MIA",
+      "outbound_date": "2027-02-05",
+      "inbound_date": "2027-02-21",
+      "departure_time": "23:05",
+      "return_departure_time": "00:00-23:59",
+      "airline": "Arajet",
+      "stops": 1,
+      "carry_on_included": true,
+      "price_usd": 967.0,
+      "price_per_leg_usd": 483.5,
+      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/270221/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439,0-1439",
+      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&returnDate=2027-02-21&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
+      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359_0000,2359",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA1IiAKA0VaRRIKMjAyNy0wMi0wNRoDUFVKKgJETTIENjIwMSIgCgNQVUoSCjIwMjctMDItMDYaA01JQSoCRE0yBDUxMDAoAkASSBdQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBGmoSCjIwMjctMDItMjEiIAoDTUlBEgoyMDI3LTAyLTIxGgNQVUoqAkRNMgQ1MTAzIiAKA1BVShIKMjAyNy0wMi0yMRoDRVpFKgJETTIENjI2OCgCagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQGyAQoyCC9tLzBiM3ly&tfu=CnhDalJJTFRkSlJscDJPR3N3Wm1OQlNrVXlSa0ZDUnkwdExTMHRMUzB0TFhCcWVYWXlNa0ZCUVVGQlIzSnRjWHBaVERkRVh6WkJFZzFFVFRVeE1ETjhSRTAyTWpZNEdnc0k4dklGRUFJYUExVlRSRGdjY1BMeUJRPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "raw_summary": "11:05 p.m. | – | 11:15 a.m.+1 | Arajet",
+      "found_at": "2026-11-01T03:00:13"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -356,30 +272,30 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270206/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-06&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-06?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDU0RRKgJETTIEMzI2MSIgCgNTRFESCjIwMjctMDItMDYaA01JQSoCRE0yBDIxMDQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJZFc1VVVGQjFaMDUyWDJkQlNtTkZUa0ZDUnkwdExTMHRMUzB0TFc5NVltWXhORUZCUVVGQlIzSnRSalUwUkZOTFVXRkJFZzFFVFRNeU5qRjhSRTB5TVRBMEdnc0kyZlFDRUFJYUExVlRSRGdjY05uMEFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpqEgoyMDI3LTAyLTA2IiAKA0VaRRIKMjAyNy0wMi0wNhoDU0RRKgJETTIEMzI2MSIgCgNTRFESCjIwMjctMDItMDYaA01JQSoCRE0yBDIxMDQoAmoNCAISCS9tLzAxbHk1bXIHCAESA01JQUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CnhDalJJTUhvNFEybFBjRGRWZW1kQlNsa3pTRUZDUnkwdExTMHRMUzB0TFMxd1ptZHlOVUZCUVVGQlIzSnRjVE5yUVc4elJGTkJFZzFFVFRNeU5qRjhSRTB5TVRBMEdnc0kxTkVDRUFJYUExVlRSRGdjY05UUkFnPT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "7:20 a.m. | – | 7:25 p.m. | LATAMDeltaOperado por Latam Airlines Peru, Latam Airlines Peru",
-      "found_at": "2026-10-31T16:30:27"
+      "found_at": "2026-11-01T03:01:18"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
-      "trip_type": "roundtrip",
+      "trip_type": "oneway_outbound",
       "origin": "BUE",
       "destination": "MIA",
-      "outbound_date": "2027-02-05",
-      "inbound_date": "2027-02-21",
-      "departure_time": "23:05",
-      "return_departure_time": "00:00-23:59",
-      "airline": "Arajet",
-      "stops": 1,
+      "outbound_date": "2027-02-07",
+      "inbound_date": null,
+      "departure_time": "12:20",
+      "return_departure_time": null,
+      "airline": "LATAM",
+      "stops": 0,
       "carry_on_included": true,
-      "price_usd": 1018.0,
-      "price_per_leg_usd": 509.0,
-      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/270221/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439,0-1439",
-      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&returnDate=2027-02-21&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
-      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05/2027-02-21?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359_0000,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDTUlBKgJBQTIDOTA4KAJAEkgXUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQRpHEgoyMDI3LTAyLTIxIh8KA01JQRIKMjAyNy0wMi0yMRoDRVpFKgJBQTIDOTMzKAJqBwgBEgNNSUFyDQgCEgkvbS8wMWx5NW1AAUgBcAGCAQsI____________AZgBAbIBCjIIL20vMGIzeXI&tfu=CmxDalJJZGxNM1YyNWtZblZ6WkdOQlNuVnJXRkZDUnkwdExTMHRMUzB0TFc5clltVjBOMEZCUVVGQlIzSnRSakF3UjJzNVUwMUJFZ1ZCUVRrek14b0xDS3I3QmhBQ0dnTlZVMFE0SEhDcSt3WT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
-      "raw_summary": "11:05 p.m.11:05 p.m. del vie, 5 feb – 11:15 a.m.+111:15 a.m. del sáb, 6 febArajet14 h 10 minEZEAeropuerto Internacional Ezeiza–MIAAeropuerto Internacional de Miami1 parada3 h 28 min PUJAeropuerto de Punta Cana502 kg CO2eEmisiones prom.Emisiones prom.El precio no incluye acceso a los compartimentos superiores. Si necesitas llevar equipaje de mano, usa el filtro Equipaje para actualizar los precios.USD 1,018ida y vueltaSalidavie, 5 feb502 kg CO2eEmisiones prom.Emisiones prom.Seleccionar vueloEl precio no incluye acceso a los compartimentos superiores. Si necesitas llevar equipaje de mano, usa el filtro Equipaje para actualizar los precios.USD 1,018ida y vuelta11:05 p.m.EZE11:15 a.m.+1MIAEl precio no incluye acceso a los compartimentos superiores. Si necesitas llevar equipaje de mano, usa el filtro Equipaje para actualizar los precios.USD 1,018ida y vuelta1 escala en PUJ1 parada14 h 10 minArajet502 kg CO2eEmisiones prom.Emisiones prom.",
-      "found_at": "2026-10-31T16:29:08"
+      "price_usd": 494.0,
+      "price_per_leg_usd": 494.0,
+      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270207/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=0-960",
+      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-07&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
+      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-07?sort=price_a&fs=fc=1;stops=~0,1;takeoff=0000,1600",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA3Ih8KA0VaRRIKMjAyNy0wMi0wNxoDTUlBKgJBQTIDOTgyKAJAAEgQUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQUABSAFwAYIBCwj___________8BmAECsgEKMggvbS8wYjN5cg&tfu=CmxDalJJU21wek1scDBZbEpWTUUxQlNrTktXbWRDUnkwdExTMHRMUzB0TFhCbWNYa3hOVUZCUVVGQlIzSnRjVFJOVGs1WFlYTkJFZ1ZCUVRrNE1ob0xDTkhrQWhBQ0dnTlZVMFE0SEhEUjVBST0SBggAIAIoASIDCgEw&hl=es-419&gl=AR&curr=USD",
+      "raw_summary": "12:20 p.m. | – | 7:45 p.m. | LATAMDeltaOperado por Latam Airlines Group",
+      "found_at": "2026-11-01T03:01:29"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -398,9 +314,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA1IiAKA0VaRRIKMjAyNy0wMi0wNRoDUFVKKgJETTIENjIwMSIgCgNQVUoSCjIwMjctMDItMDYaA01JQSoCRE0yBDUxMDAoAkASSBdQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJYmpka2JsOUVYMVZRWjNkQlMyVTFOVkZDUnkwdExTMHRMUzB0YjNsaWFHSXlOa0ZCUVVGQlIzSnRSalZOUlRsMmQxTkJFZzFFVFRZeU1ERjhSRTAxTVRBd0dnc0lpTlFERUFJYUExVlRSRGdjY0lqVUF3PT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA1IiAKA0VaRRIKMjAyNy0wMi0wNRoDUFVKKgJETTIENjIwMSIgCgNQVUoSCjIwMjctMDItMDYaA01JQSoCRE0yBDUxMDAoAkASSBdQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJWkdJNFJUSkZaVWxHVVZsQlNXd3lNbWRDUnkwdExTMHRMUzB0TFhCcVltTnZNVUZCUVVGQlIzSnRjVEkwUXpaWVdHdEJFZzFFVFRZeU1ERjhSRTAxTVRBd0dnc0lpTlFERUFJYUExVlRSRGdjY0lqVUF3PT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "8:30 p.m. | – | 2:30 p.m.+1 | American",
-      "found_at": "2026-10-31T16:30:16"
+      "found_at": "2026-11-01T03:01:07"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -419,9 +335,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&oneway=true&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA1IiAKA0VaRRIKMjAyNy0wMi0wNRoDUFVKKgJETTIENjIwMSIgCgNQVUoSCjIwMjctMDItMDYaA01JQSoCRE0yBDUxMDAoAkASSBdQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJYmpka2JsOUVYMVZRWjNkQlMyVTFOVkZDUnkwdExTMHRMUzB0YjNsaWFHSXlOa0ZCUVVGQlIzSnRSalZOUlRsMmQxTkJFZzFFVFRZeU1ERjhSRTAxTVRBd0dnc0lpTlFERUFJYUExVlRSRGdjY0lqVUF3PT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpyEgoyMDI3LTAyLTA1IiAKA0VaRRIKMjAyNy0wMi0wNRoDUFVKKgJETTIENjIwMSIgCgNQVUoSCjIwMjctMDItMDYaA01JQSoCRE0yBDUxMDAoAkASSBdQAFgXag0IAhIJL20vMDFseTVtcgcIARIDTUlBQAFIAXABggELCP___________wGYAQKyAQoyCC9tLzBiM3ly&tfu=CnhDalJJWkdJNFJUSkZaVWxHVVZsQlNXd3lNbWRDUnkwdExTMHRMUzB0TFhCcVltTnZNVUZCUVVGQlIzSnRjVEkwUXpaWVdHdEJFZzFFVFRZeU1ERjhSRTAxTVRBd0dnc0lpTlFERUFJYUExVlRSRGdjY0lqVUF3PT0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "8:30 p.m. | – | 8:43 p.m.+1 | American",
-      "found_at": "2026-10-31T16:30:16"
+      "found_at": "2026-11-01T03:01:07"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -440,9 +356,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439,1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359_1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDTUlBKgJBQTIDOTA4KAJAEkgXUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQRpPEgoyMDI3LTAyLTIwIh8KA01JQRIKMjAyNy0wMi0yMBoDRVpFKgJBQTIDOTgzKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CmxDalJJVERkV1ExbDVZVjlKZGtGQlMyeG1aMUZDUnkwdExTMHRMVzlyY0hVeE5DMXVNa0ZCUVVGQlIzSnRSbm80UW5FMk5WVkJFZ1ZCUVRrNE14b0xDT3JTQnhBQ0dnTlZVMFE0SEhEcTBnYz0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDTUlBKgJBQTIDOTA4KAJAEkgXUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQRpPEgoyMDI3LTAyLTIwIh8KA01JQRIKMjAyNy0wMi0yMBoDRVpFKgJBQTIDOTgzKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CmxDalJJVVZOdlF6a3lZMWhZT0hOQlNWOUZSSGRDUnkwdExTMHRMUzB0TFMxd2FtUjJPRUZCUVVGQlIzSnRjWGxuU0hsSlluRkJFZ1ZCUVRrNE14b0xDT3JTQnhBQ0dnTlZVMFE0SEhEcTBnYz0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "10:30 p.m.10:30 p.m. del vie, 5 feb – 6:25 p.m.+16:25 p.m. del sáb, 6 febLATAMOperado por Latam Airlines Group, Latam Airlines Group, Latam Airlines Group21 h 55 minAEPAeroparque Internacional Jorge Newbery–MIAAeropuerto Internacional de Miami2 paradasEscala de 7 h 29 minEscala largaSCLAeropuerto Internacional Arturo Merino Benítez, PUJAeropuerto de Punta Cana652 kg CO2e+26% de emisiones+26% de emisionesUSD 1,235ida y vueltaSalidavie, 5 feb652 kg CO2e+26% de emisiones+26% de emisionesSeleccionar vueloUSD 1,235ida y vuelta10:30 p.m.AEP6:25 p.m.+1MIAUSD 1,235ida y vuelta2 escalas en SCL, PUJ2 paradas21 h 55 minLATAMOperado por Latam Airlines Group, Latam Airlines Group, Latam Airlines Group652 kg CO2e+26% de emisiones+26% de emisiones",
-      "found_at": "2026-10-31T16:28:54"
+      "found_at": "2026-11-01T02:59:59"
     },
     {
       "provider": "Skyscanner / Turismocity / Cheapflights",
@@ -461,9 +377,9 @@
       "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439,1020-1439",
       "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
       "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359_1700,2359",
-      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDTUlBKgJBQTIDOTA4KAJAEkgXUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQRpPEgoyMDI3LTAyLTIwIh8KA01JQRIKMjAyNy0wMi0yMBoDRVpFKgJBQTIDOTgzKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CmxDalJJVERkV1ExbDVZVjlKZGtGQlMyeG1aMUZDUnkwdExTMHRMVzlyY0hVeE5DMXVNa0ZCUVVGQlIzSnRSbm80UW5FMk5WVkJFZ1ZCUVRrNE14b0xDT3JTQnhBQ0dnTlZVMFE0SEhEcTBnYz0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpPEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDTUlBKgJBQTIDOTA4KAJAEkgXUABYF2oNCAISCS9tLzAxbHk1bXIHCAESA01JQRpPEgoyMDI3LTAyLTIwIh8KA01JQRIKMjAyNy0wMi0yMBoDRVpFKgJBQTIDOTgzKAJAEUgXUABYF2oHCAESA01JQXINCAISCS9tLzAxbHk1bUABSAFwAYIBCwj___________8BmAEBsgEKMggvbS8wYjN5cg&tfu=CmxDalJJVVZOdlF6a3lZMWhZT0hOQlNWOUZSSGRDUnkwdExTMHRMUzB0TFMxd2FtUjJPRUZCUVVGQlIzSnRjWGxuU0hsSlluRkJFZ1ZCUVRrNE14b0xDT3JTQnhBQ0dnTlZVMFE0SEhEcTBnYz0SBggAIAIoASIA&hl=es-419&gl=AR&curr=USD",
       "raw_summary": "11:59 p.m.11:59 p.m. del vie, 5 feb – 7:19 a.m.+17:19 a.m. del sáb, 6 febAmerican9 h 20 minEZEAeropuerto Internacional Ezeiza–MIAAeropuerto Internacional de MiamiDirecto370 kg CO2e-29% de emisiones-29% de emisionesUSD 1,253ida y vueltaSalidavie, 5 feb370 kg CO2e-29% de emisiones-29% de emisionesSeleccionar vueloUSD 1,253ida y vuelta11:59 p.m.EZE7:19 a.m.+1MIAUSD 1,253ida y vueltaDirectoDirecto9 h 20 minAmerican370 kg CO2e-29% de emisiones-29% de emisiones",
-      "found_at": "2026-10-31T16:28:54"
+      "found_at": "2026-11-01T02:59:59"
     }
   ]
 }
