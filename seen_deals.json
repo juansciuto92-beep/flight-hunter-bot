@@ -1,17 +1,19 @@
 {
   "oneway_inbound|2027-02-21|oneway|22:30|LATAM": 365.0,
-  "oneway_inbound|2027-02-21|oneway|09:20|LATAM": 419.0,
+  "oneway_inbound|2027-02-21|oneway|09:20|LATAM": 379.0,
   "roundtrip|2027-02-07|2027-02-21|02:45|Arajet": 738.0,
   "roundtrip|2027-02-06|2027-02-21|08:40|LATAM": 859.0,
   "roundtrip|2027-02-06|2027-02-21|20:05|LATAM": 741.0,
   "roundtrip|2027-02-07|2027-02-21|08:40|LATAM": 741.0,
   "oneway_outbound|2027-02-07|oneway|02:45|Arajet": 371.0,
-  "oneway_inbound|2027-02-20|oneway|19:10|LATAM": 447.0,
+  "oneway_inbound|2027-02-20|oneway|19:10|LATAM": 365.0,
   "oneway_inbound|2027-02-21|oneway|15:02|Arajet": 368.0,
-  "oneway_outbound|2027-02-06|oneway|05:35|Arajet": 433.0,
-  "roundtrip|2027-02-06|2027-02-21|05:35|Arajet": 800.0,
+  "oneway_outbound|2027-02-06|oneway|05:35|Arajet": 382.0,
+  "roundtrip|2027-02-06|2027-02-21|05:35|Arajet": 761.0,
   "roundtrip|2027-02-07|2027-02-21|12:55|LATAM": 859.0,
   "oneway_outbound|2027-02-06|oneway|20:05|LATAM": 377.0,
   "oneway_outbound|2027-02-07|oneway|08:40|LATAM": 377.0,
-  "oneway_inbound|2027-02-20|oneway|19:36|Delta": 434.0
+  "oneway_inbound|2027-02-20|oneway|19:36|Delta": 434.0,
+  "roundtrip|2027-02-06|2027-02-20|20:05|LATAM": 741.0,
+  "roundtrip|2027-02-07|2027-02-20|08:40|LATAM": 741.0
 }
