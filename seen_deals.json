@@ -13,7 +13,7 @@
   "roundtrip|2027-02-07|2027-02-21|12:55|LATAM": 859.0,
   "oneway_outbound|2027-02-06|oneway|20:05|LATAM": 377.0,
   "oneway_outbound|2027-02-07|oneway|08:40|LATAM": 377.0,
-  "oneway_inbound|2027-02-20|oneway|19:36|Delta": 434.0,
+  "oneway_inbound|2027-02-20|oneway|19:36|Delta": 419.0,
   "roundtrip|2027-02-06|2027-02-20|20:05|LATAM": 741.0,
   "roundtrip|2027-02-07|2027-02-20|08:40|LATAM": 741.0,
   "roundtrip|2027-02-06|2027-02-20|17:35|LATAM": 741.0,
@@ -24,8 +24,9 @@
   "oneway_inbound|2027-02-21|oneway|07:00|LATAM": 341.0,
   "roundtrip|2027-02-07|2027-02-21|10:10|American": 862.0,
   "roundtrip|2027-02-06|2027-02-21|12:55|LATAM": 885.0,
-  "roundtrip|2027-02-05|2027-02-21|23:35|Delta": 898.0,
+  "roundtrip|2027-02-05|2027-02-21|23:35|Delta": 891.0,
   "oneway_inbound|2027-02-21|oneway|07:00|Delta": 352.0,
   "roundtrip|2027-02-07|2027-02-20|04:40|LATAM": 858.0,
-  "roundtrip|2027-02-07|2027-02-21|04:40|LATAM": 858.0
+  "roundtrip|2027-02-07|2027-02-21|04:40|LATAM": 858.0,
+  "oneway_inbound|2027-02-21|oneway|05:50|Delta": 352.0
 }
