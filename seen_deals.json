@@ -29,5 +29,6 @@
   "roundtrip|2027-02-07|2027-02-20|04:40|LATAM": 858.0,
   "roundtrip|2027-02-07|2027-02-21|04:40|LATAM": 858.0,
   "oneway_inbound|2027-02-21|oneway|05:50|Delta": 352.0,
-  "oneway_inbound|2027-02-21|oneway|19:10|LATAM": 404.0
+  "oneway_inbound|2027-02-21|oneway|19:10|LATAM": 404.0,
+  "roundtrip|2027-02-06|2027-02-21|22:20|American": 889.0
 }
