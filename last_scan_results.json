@@ -1,6 +1,49 @@
 {
-  "scanned_at": "2026-11-26T20:41:31",
-  "total_matching_flights": 0,
-  "best_per_leg_usd": null,
-  "offers": []
+  "scanned_at": "2026-11-27T05:44:26",
+  "total_matching_flights": 2,
+  "best_per_leg_usd": 715.5,
+  "offers": [
+    {
+      "provider": "Skyscanner / Turismocity / Cheapflights",
+      "trip_type": "roundtrip",
+      "origin": "BUE",
+      "destination": "MIA",
+      "outbound_date": "2027-02-05",
+      "inbound_date": "2027-02-20",
+      "departure_time": "20:05",
+      "return_departure_time": "17:00-23:59",
+      "airline": "LATAM",
+      "stops": 1,
+      "carry_on_included": true,
+      "price_usd": 1431.0,
+      "price_per_leg_usd": 715.5,
+      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439,1020-1439",
+      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
+      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359_1700,2359",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpxEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDSkZLKgJETDIDMTE0IiAKA0pGSxIKMjAyNy0wMi0wNhoDTUlBKgJETDIEMTUyOCgCQBJIF1AAWBdqDQgCEgkvbS8wMWx5NW1yBwgBEgNNSUEacRIKMjAyNy0wMi0yMCIgCgNNSUESCjIwMjctMDItMjAaA0FUTCoCREwyBDEzODYiHwoDQVRMEgoyMDI3LTAyLTIwGgNFWkUqAkRMMgMxMDEoAkARSBdQAFgXagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQGyAQoyCC9tLzBiM3ly&tfu=CnRDalJJZVVaSlJGcDBhWEJzTlhkQlFtUlJjbmRDUnkwdExTMHRMUzB0TFhscFltZGxNVUZCUVVGQlIzTktSMGR6UkhaamRGRkJFZ3hFVERFek9EWjhSRXd4TURFYUN3akgzUWdRQWhvRFZWTkVPQnh3eDkwSRIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
+      "raw_summary": "8:05 p.m.8:05 p.m. del vie, 5 feb – 10:20 a.m.+110:20 a.m. del sáb, 6 febDeltaLATAM16 h 15 minEZEAeropuerto Internacional Ezeiza–MIAAeropuerto Internacional de Miami1 parada2 h JFKAeropuerto Internacional John F. Kennedy637 kg CO2e+23% de emisiones+23% de emisionesUSD 1,431ida y vueltaSalidavie, 5 feb637 kg CO2e+23% de emisiones+23% de emisionesUSD 1,431ida y vuelta8:05 p.m.EZE10:20 a.m.+1MIAUSD 1,431ida y vuelta1 escala en JFK1 parada16 h 15 minDeltaLATAM637 kg CO2e+23% de emisiones+23% de emisiones",
+      "found_at": "2026-11-27T05:43:14"
+    },
+    {
+      "provider": "Skyscanner / Turismocity / Cheapflights",
+      "trip_type": "roundtrip",
+      "origin": "BUE",
+      "destination": "MIA",
+      "outbound_date": "2027-02-05",
+      "inbound_date": "2027-02-20",
+      "departure_time": "20:05",
+      "return_departure_time": "17:00-23:59",
+      "airline": "LATAM",
+      "stops": 1,
+      "carry_on_included": true,
+      "price_usd": 1431.0,
+      "price_per_leg_usd": 715.5,
+      "skyscanner_url": "https://www.skyscanner.com.ar/transporte/vuelos/buea/mia/270205/270220/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=false&max_stops=1&currency=USD&sortby=price&departure-times=1080-1439,1020-1439",
+      "turismocity_url": "https://www.turismocity.com.ar/vuelos-resultados-a-MIA?from=BUE&departureDate=2027-02-05&returnDate=2027-02-20&adults=1&currency=USD&CarryOn=true&stops=0,1&sort=price",
+      "cheapflights_url": "https://www.cheapflights.com/flight-search/BUE-MIA/2027-02-05/2027-02-20?sort=price_a&fs=fc=1;stops=~0,1;takeoff=1800,2359_1700,2359",
+      "selected_booking_url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpxEgoyMDI3LTAyLTA1Ih8KA0VaRRIKMjAyNy0wMi0wNRoDSkZLKgJETDIDMTE0IiAKA0pGSxIKMjAyNy0wMi0wNhoDTUlBKgJETDIEMTUyOCgCQBJIF1AAWBdqDQgCEgkvbS8wMWx5NW1yBwgBEgNNSUEacRIKMjAyNy0wMi0yMCIgCgNNSUESCjIwMjctMDItMjAaA0FUTCoCREwyBDEzODYiHwoDQVRMEgoyMDI3LTAyLTIwGgNFWkUqAkRMMgMxMDEoAkARSBdQAFgXagcIARIDTUlBcg0IAhIJL20vMDFseTVtQAFIAXABggELCP___________wGYAQGyAQoyCC9tLzBiM3ly&tfu=CnRDalJJZVVaSlJGcDBhWEJzTlhkQlFtUlJjbmRDUnkwdExTMHRMUzB0TFhscFltZGxNVUZCUVVGQlIzTktSMGR6UkhaamRGRkJFZ3hFVERFek9EWjhSRXd4TURFYUN3akgzUWdRQWhvRFZWTkVPQnh3eDkwSRIGCAAgAigBIgA&hl=es-419&gl=AR&curr=USD",
+      "raw_summary": "8:05 p.m. | – | 10:20 a.m.+1 | DeltaLATAM",
+      "found_at": "2026-11-27T05:43:14"
+    }
+  ]
 }
